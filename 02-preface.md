@@ -1,13 +1,13 @@
-# Preface #
+# Elõszó #
 
-Python is probably one of the few programming languages which is both
-simple and powerful. This is good for beginners as well as for
-experts, and more importantly, is fun to program with. This book aims
-to help you learn this wonderful language and show how to get things
-done quickly and painlessly - in effect 'The Anti-venom to your
-programming problems'.
+Python valószínûleg azon kevés programozási nyelvek egyike, amelyek egyszerre
+egyszerûek és hatékonyak. Egyaránt jó mind kezdõknek, mind haladóknak valamint,
+ami még fontosabb, Ptyhonban szórakoztató propgramozni. Ez a könyv
+megpróbál segíteni ennek a remek nyelvnek az elsajátításában és megmutatja, 
+hogyan oldjunk meg dolgokat gyorsan és fájdalommentesen - röviden 
+ez a könyv "az ellenszer programozási problémáidra".
 
-## Who This Book Is For ##
+## Kinek íródott ez a könyv? ##
 
 This book serves as a guide or tutorial to the Python programming
 language. It is mainly targeted at newbies. It is useful for
@@ -23,7 +23,7 @@ language - I have highlighted many such differences. A little warning
 though, Python is soon going to become your favorite programming
 language!
 
-## History Lesson ##
+## Történelem lecke ##
 
 I first started with Python when I needed to write an installer for
 software I had written called 'Diamond' so that I could make the
@@ -62,7 +62,7 @@ constructive suggestions, criticisms and
 [feedback](#who-reads-a-byte-of-python) from enthusiastic readers
 which has helped me improve this book a lot.
 
-## Status Of The Book ##
+## A könyv állapota ##
 
 - Latest update is in August 2013, converted to much nicer formatted
   text files using
@@ -81,7 +81,7 @@ simply wrong. Please
 respective [translators](#translations) with your comments and
 suggestions.
 
-## Official Website ##
+## Hivatalos weboldal ##
 
 The official website of the book is
 <http://swaroopch.com/notes/Python> where you can read the whole book
@@ -89,7 +89,7 @@ online, download the latest versions of the book,
 [buy a printed hard copy](http://swaroopch.com/buybook), and also send
 me feedback.
 
-## Something To Think About ##
+## Útravaló gondolatébresztõnek ##
 
 > There are two ways of constructing a software design: one way is to
 > make it so simple that there are obviously no deficiencies; the
