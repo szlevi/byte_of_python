@@ -9,7 +9,7 @@ ez a könyv "az ellenszer programozási problémáidra".
 
 ## Kinek íródott ez a könyv? ##
 
-This book serves as a guide or tutorial to the Python programming
+Ez a book serves as a guide or tutorial to the Python programming
 language. It is mainly targeted at newbies. It is useful for
 experienced programmers as well.
 
